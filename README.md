@@ -34,9 +34,6 @@ This project is a practical simulation of a home-based Security Operations Cente
 ![Step 8](Home%20SOC/8.png)
 
 ### Begin creation of a new Virtual Machine  
-![Step 6](Home%20SOC/6.png)
-
-### Configure VM: name it generically (e.g., corpnet-east1)  
 ![Step 9](Home%20SOC/9.png)
 
 ### Choose Windows 10 image and select an appropriate VM size  
